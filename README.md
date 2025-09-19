@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-x1.png" alt="KarreiraDev Frontend - LuCamargo" width="220"><br>
+  <img src="logo.png" alt="KarreiraDev Frontend - LuCamargo" width="220"><br>
   <sub><strong>KarreiraDev Frontend</strong> – por Luciano Camargo</sub>
 </p>
 
