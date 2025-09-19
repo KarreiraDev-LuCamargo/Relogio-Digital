@@ -5,6 +5,15 @@
 
 # 🕒 Relógio Digital
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black&style=for-the-badge"/>
+  
+</p>
+
+
 Um projeto simples e moderno de **Relógio Digital** desenvolvido com HTML, CSS e JavaScript.  
 O objetivo é exibir a hora atual em tempo real, com **suporte a tema Dark/Light**, podendo ser expandido para incluir formatos 12/24h, animações, sons e alarmes.
 
